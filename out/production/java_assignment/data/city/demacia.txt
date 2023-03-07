@@ -1,0 +1,7 @@
+name:阿卡斯
+description:最先进的民粹国家
+governance:民粹主义
+technologyLevel:高
+magic:中等
+environment:先进都市
+main:阿卡斯是世界上科技最发达的国家。

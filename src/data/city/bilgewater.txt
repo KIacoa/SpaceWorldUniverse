@@ -1,0 +1,7 @@
+name:弗洛里昂
+description:没有法律的罪恶都市
+governance:帮派团伙
+technologyLevel:中等
+magic:中等
+environment:法外城镇
+main:弗洛里昂在阿卡斯的庇护下得以存活，也依仗阿卡斯得到一些发展。

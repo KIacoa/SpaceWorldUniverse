@@ -1,0 +1,7 @@
+name:阿卡斯迦
+description:多种族共处的包容社会
+governance:区域行省
+technologyLevel:中等
+magic:中高
+environment:富饶田园
+main:阿卡斯迦是因为阿卡斯在民粹主义下分裂出来的国家。

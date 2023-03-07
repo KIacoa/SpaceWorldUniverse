@@ -1,0 +1,7 @@
+name:艾西西比亚
+description:古老的农耕社会
+governance:封建君主
+technologyLevel:中低
+magic:中高
+environment:魔粒富足
+main:艾西西比亚是世界上唯一能自由驾驭龙的国家。

@@ -1,0 +1,7 @@
+name:库古
+description:环境恶劣的军事之国
+governance:封建专制
+technologyLevel:中低
+magic:中等
+environment:弱酸性土壤
+main:库古的土地环境非常恶劣，很难有植物在库古生长。

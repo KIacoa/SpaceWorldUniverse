@@ -1,0 +1,7 @@
+name:克格鲁
+description:多种族亚人联盟
+governance:亚人部落
+technologyLevel:低
+magic:高
+environment:魔法森林
+main:克格鲁是一片魔粒浓度非常高的森林，非常适合亚人这种对魔粒需求高的种族生存，但对于人类来说，过高的魔粒浓度，身体无法适应。

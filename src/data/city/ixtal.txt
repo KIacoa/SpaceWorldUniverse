@@ -1,0 +1,7 @@
+name:巴里亚
+description:与世隔绝的魔幻土地
+governance:无
+technologyLevel:低
+magic:高
+environment:未知
+main:巴里亚是一片与世隔绝的魔幻土地，很少有人去到那里，过去的人也几乎没有能够回来的。

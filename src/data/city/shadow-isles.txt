@@ -1,0 +1,7 @@
+name:海特斯
+description:乱世废土
+governance:中央集权
+technologyLevel:低
+magic:中等
+environment:焦烂废土
+main:海特斯原为塞拉流放犯人的地方。

@@ -1,0 +1,7 @@
+name:洛比克
+description:繁荣的港口城市
+governance:权贵寡头
+technologyLevel:中高
+magic:中等
+environment:海岸都会
+main:洛比克实行家庭资本制

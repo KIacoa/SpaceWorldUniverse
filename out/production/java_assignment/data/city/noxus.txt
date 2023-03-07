@@ -1,0 +1,7 @@
+name:塞拉
+description:实力至上的帝国主义国家
+governance:帝国主义
+technologyLevel:中等
+magic:中高
+environment:贫瘠平原
+main:塞拉是一个尊崇力量高于一切的国家。
